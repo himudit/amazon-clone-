@@ -1,4 +1,4 @@
-# amazon-clone-
+# amazon-clone-UI
 This project is a front-end clone of the Amazon.in website, created using HTML and CSS. It aims to replicate the look and feel of the original site, providing a visually appealing and responsive user interface.
 
 Features : Responsive Design: The layout adjusts seamlessly across different screen sizes, ensuring a consistent user experience on desktops, tablets, and mobile devices. Home Page: Includes a replica of the Amazon.in homepage with featured products, deals, and navigation. Product Listings: Designed sections for various product categories, showcasing product images, titles, prices, and ratings. Navigation Bar: A fully functional navigation bar with links to different sections, search functionality, and a shopping cart icon. Footer: A comprehensive footer with links to various informational pages, similar to the original Amazon.in footer.
